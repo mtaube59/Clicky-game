@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Naruto",
+    "image": "https://a.wattpad.com/useravatar/Naruto_Uzumaki67.256.365354.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Sasuke",
+    "image": "https://c-sf.smule.com/sf/s36/arr/a6/95/a91e600f-8bf1-4121-a8a9-795972833f2b.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sakura",
+    "image": "https://dl.myket.ir/newresizing/resize/large/jpg/accounts/20221138_636901663719991962.png"
+  },
+  {
+    "id": 4,
+    "name": "Kakashi",
+    "image": "https://pbs.twimg.com/profile_images/2820344704/d02171ace16877eb032663ad5963b7f2.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Gaara",
+    "image": "https://pbs.twimg.com/profile_images/428269131842867201/P0ZzLTke.png"
+  },
+  {
+    "id": 6,
+    "name": "Lady",
+    "image": "https://a.wattpad.com/useravatar/tsunade_fifthhokage.256.190881.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Madara",
+    "image": "https://pbs.twimg.com/profile_images/688035323725656070/G4BotBw9_400x400.png"
+
+  },
+  {
+    "id": 8,
+    "name": "Rock",
+    "image": "https://pbs.twimg.com/profile_images/638449494644928512/LRaPqHyV_400x400.png"
+  },
+  {
+    "id": 9,
+    "name": "Pervy",
+    "image": "https://a.wattpad.com/useravatar/Jiraiya_Sama.256.89039.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Shikamaru",
+    "image": "https://pbs.twimg.com/profile_images/672585150836768768/BmwEu9R9_400x400.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Pain",
+    "image": "https://at-cdn-s02.audiotool.com/2017/04/04/documents/l3dcmBXiIQmUNfkmbgexSDbCkPCb/0/cover256x256-347bec1c313d40f2836b38155d79af08.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Orochimaru",
+    "image": "https://cdn130.picsart.com/238774081027202.jpg?c256x256"
+  }
+]
