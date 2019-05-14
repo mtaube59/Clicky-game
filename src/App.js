@@ -15,7 +15,11 @@ class App extends Component {
     topScore: 0,
     clicked: [],
   };
-
+  shuffle = ()  => {
+    let friendsCopy = [...this.state.friends]
+    friendsCopy.sort(() => Math.random() - 0.5);
+    this.setState({friends: friendsCopy})
+  }
   onClick = (id) => {
     let isClicked = this.state.clicked.indexOf(id);
     console.log(isClicked);
@@ -26,9 +30,13 @@ class App extends Component {
     else {
       let newArray = [...this.state.clicked, id];
       this.setState({score: this.state.score + 1, clicked: newArray})
+      if (this.state.score + 1 > this.state.topScore ) {
+        this.setState({topScore: this.state.score + 1})
       }
+    }
     console.log(isClicked);
     console.log("Hello ive been clicked");
+    this.shuffle()
   }
 
   // Map over this.state.friends and render a FriendCard component for each friend object
